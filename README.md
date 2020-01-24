@@ -14,7 +14,7 @@ Different from SEGAN with a single generator, ISEGAN and DSEGAN have multiple ge
 [//]: #![IDSEGAN](assets/idsegan.png)
 <img src="assets/idsegan.png" alt="idsegan.png" width="400"/>
 
-The enhacement result of one generator is supposed to be further enhanced/corrected by the next generator in the chain. DSEGAN's generators are independent while ISEGAN's generators share parameters. Similar to SEGAN, the generators are based on fully convoltuional architecture and receive raw speech waveforms to accomplish speech enhancement:
+The enhacement result of one generator is supposed to be further enhanced/corrected by the next generator in the chain. DSEGAN's generators are independent while ISEGAN's generators share parameters. Similar to SEGAN, the generators are based on fully convolutional architecture and receive raw speech waveforms to accomplish speech enhancement:
 
 [//]: #![generator](assets/generator.png)
 <img src="assets/generator.png" alt="generator" width="300"/>
@@ -53,7 +53,7 @@ Once you have the TFRecords file created in `data/segan.tfrecords` you can simpl
 # SEGAN baseline: run inside segan directory
 ./run_segan.sh
 ```
-Each script consists of commands for training and testing with 5 different checkpoints of the trained model on the test audio files with. You can modify the bash script to modify parameters (e.g. which GPUs to use) and customize what you want to run.
+Each script consists of commands for training and testing with 5 different checkpoints of the trained model on the test audio files with. You can modify the bash script to customize parameters (e.g. which GPUs to use) and what you want to run.
 
 Enhancement results on two different test files:
 
@@ -75,7 +75,7 @@ Enhancement results on two different test files:
 
 e-mail: h.phan@kent.ac.uk or huy.phan@ieee.org
 
-### <span style="color:red">_Further things to add:_</span>
+### Further things to add
 
 * <span style="color:red">_When I have some time, I will try to improve comments on the source code._</span>
 * <span style="color:red">_The pretrained models will be uploaded separately._</span>
