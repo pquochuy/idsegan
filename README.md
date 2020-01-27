@@ -81,7 +81,7 @@ e-mail: h.phan@kent.ac.uk or huy.phan@ieee.org
 * <span style="color:red">_The pretrained models will be uploaded separately._</span>
 * <span style="color:red">_Some audio examples will be added for demonstration._</span>
 
-### Notes (same as [santi-pdp's SEGAN repo](https://github.com/santi-pdp/segan))
+### Notes
 
 * If using this code, parts of it, or developments from it, please cite the above reference.
 * We do not provide any support or assistance for the supplied code nor we offer any other compilation/variant of it.
