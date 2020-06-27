@@ -73,7 +73,7 @@ Enhancement results on two different test files:
 
 ### Contact
 
-e-mail: h.phan@kent.ac.uk or huy.phan@ieee.org
+e-mail: h.phan@qmul.ac.uk
 
 ### Further things to add
 
