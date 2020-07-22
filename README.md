@@ -60,6 +60,10 @@ Enhancement results on two different test files:
 [//]: #![results](assets/results.png)
 <img src="assets/results.png" alt="results.png" width="500"/>
 
+### Enhanced Wav Files
+
+For comparison purpose, enhanced wave files of DSEGAN with depth of 2 are available at this [here](https://entuedu-my.sharepoint.com/personal/phan0035_e_ntu_edu_sg/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fphan0035%5Fe%5Fntu%5Fedu%5Fsg%2FDocuments%2FShared%20with%20Everyone%2Fdsegan%2Ddeep2&originalPath=aHR0cHM6Ly9lbnR1ZWR1LW15LnNoYXJlcG9pbnQuY29tLzpmOi9nL3BlcnNvbmFsL3BoYW4wMDM1X2VfbnR1X2VkdV9zZy9FcjBHcGNhbHh3cElzdnVnYmMzaGtNd0JtcVJrYnh2UTl5eGQzQ1U5WXRUMTd3P3J0aW1lPXVTN0t5SFl1MkVn)
+
 ### Reference
 
 ```
