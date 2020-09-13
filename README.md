@@ -5,7 +5,7 @@
 
 This is the repository of the DSEGAN, ISEGAN, (and the baseline SEGAN) in our original paper:
 
-H. Phan, I. V. McLoughlin, L. Pham, O. Y. Chén, P. Koch, M. De Vos, and A. Mertins, "[_Improving GANs for Speech Enhancement_](https://arxiv.org/pdf/2001.05532.pdf)," arXiv preprint arXiv:2001.05532, 2020.
+H. Phan, I. V. McLoughlin, L. Pham, O. Y. Chén, P. Koch, M. De Vos, and A. Mertins, "[_Improving GANs for Speech Enhancement_](https://arxiv.org/pdf/2001.05532.pdf)," IEEE Signal Processing Letters, 2020. <br/><span style="color:red">*(accepted)*</span>
 
 ISEGAN (Iterated SEGAN) and DSEGAN (Deep SEGAN) were built upon the SEGAN proposed by [Pascual _et al._](https://arxiv.org/abs/1703.09452) and SEGAN repository from [santi-pdp](https://github.com/santi-pdp/segan).
 
